@@ -1,0 +1,53 @@
+.high-paying-jobs-parent {
+     background-color: #3f51b5;
+    border-radius: 10px;
+    height: 63vh;
+    position: relative
+}
+.high-paying-jobs-parent header{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+  }
+  .high-paying-jobs-parent h2{
+  color: #3f51b5;
+      margin-left: 15px;
+}
+.high-paying-jobs-title {
+  color: #ffffff;
+  letter-spacing: 5px;
+  font-weight: 700;
+  font-family: monospace;
+  padding: 5px;
+  margin-top: 10px;
+
+  /* border-top: 3px #11a876 solid; */
+  border-radius: 20px;
+}
+
+
+.hight-pay-job-img {
+    object-fit: cover;
+    width: 100%;
+    height: 80px;
+    border-radius: 10px;
+    border: 1px #3f51b5 solid;
+    align-self: start;
+}
+.high-paying-jobs-parent .company-name {
+  margin: 10px;
+  text-align: center;
+}
+.High-paying-job-description {
+}
+.high-paying-jobs-parent header .company-info{
+    padding: 5px;
+    margin: 5px;
+    background: #edf2e8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px;
+    width: max-content;
+}

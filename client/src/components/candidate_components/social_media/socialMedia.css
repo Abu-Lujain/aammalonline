@@ -1,0 +1,31 @@
+.social-media-parent {
+  padding: 10px;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 40px;
+  /* margin-left: auto; */
+  height: 200px;
+  /* bottom: 0; */
+  background: #f5f8f3;
+}
+.social-media-parent .social-media-icon {
+  font-size: 45px;
+}
+.social-media-parent li {
+  display: flex;
+  justify-content: space-between;
+}
+.social-media-parent .f {
+  color: blue;
+}
+.social-media-parent .y {
+  color: red;
+}
+.social-media-parent .t {
+  color: rgb(6, 193, 255);
+}
+.social-media-parent .tel {
+  color: rgb(214, 10, 71);
+  /* background-color: rgb(0, 195, 255); */
+  /* border-radius: 50%; */
+}
